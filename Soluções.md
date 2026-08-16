@@ -5,3 +5,6 @@
 
 ## p2-b
 `cd challenges`
+
+## p3-b
+`ls challenges`
