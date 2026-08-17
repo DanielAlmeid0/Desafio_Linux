@@ -17,3 +17,6 @@
 
 ## p6-b
 `rm -rf foo`
+
+## p7-b
+`echo "Hello Worls"`
