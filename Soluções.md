@@ -12,5 +12,8 @@
 ## p4-b
 `mkdir foo`
 
-## p5-b
+## p5-i
 `mkdir -p foo/bar/1/2/3`
+
+## p6-b
+`rm -rf foo`
