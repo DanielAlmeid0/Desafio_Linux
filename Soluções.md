@@ -10,4 +10,4 @@
 `ls challenges`
 
 ## p4-b
-`mkdir foor`
+`mkdir foo`
