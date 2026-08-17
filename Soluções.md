@@ -11,3 +11,6 @@
 
 ## p4-b
 `mkdir foo`
+
+## p5-b
+`mkdir -p foo/bar/1/2/3`
