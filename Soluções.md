@@ -20,3 +20,7 @@
 
 ## p7-b
 `echo "Hello Worls"`
+
+## p8-b
+`touch hello.txt`
+`echo "Hello World" > hello.txt`
