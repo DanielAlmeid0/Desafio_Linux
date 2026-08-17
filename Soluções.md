@@ -8,3 +8,6 @@
 
 ## p3-b
 `ls challenges`
+
+## p4-b
+`mkdir foo`
