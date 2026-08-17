@@ -24,3 +24,6 @@
 ## p8-b
 `touch hello.txt`
 `echo "Hello World" > hello.txt`
+
+## p9-b
+`touch empty.txt`
