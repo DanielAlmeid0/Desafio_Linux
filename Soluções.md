@@ -70,8 +70,11 @@
 `gcc compile_me.c -o programa_compilado`
 `./programa_compilado`
 
-# p23-a
+## p23-a
 `./redirect &> output.txt`
 
-# p24-b
+## p24-b
 `date`
+
+## p25-b
+`ps aux`
