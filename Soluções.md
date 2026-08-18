@@ -58,3 +58,6 @@
 ## p19-b
 `chmod u+w restricted.txt`
 `echo "texto adicionado" >> restricted.txt`
+
+## p10-b
+`./hello_executable`
