@@ -87,3 +87,6 @@
 
 ## p28-b
 `grep -rl "You found the needle in the haystack!" bunch_of_files/`
+
+## p29-b
+`head -n 25 people.csv`
