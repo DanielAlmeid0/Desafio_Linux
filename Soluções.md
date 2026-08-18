@@ -33,3 +33,6 @@
 
 ## p11-i
 `> empty.txt`
+
+## p12-i
+`cat /dev/null > empty.txt`
