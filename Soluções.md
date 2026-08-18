@@ -65,3 +65,7 @@
 ## p21-b
 `chmod +x challenge_20`
 `./challenge_20`
+
+## p22-b
+`gcc compile_me.c -o programa_compilado`
+`./programa_compilado`
