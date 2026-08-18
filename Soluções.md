@@ -54,3 +54,7 @@
 
 ## p18-b
 `ls -l`
+
+## p19-b
+`chmod u+w restricted.txt`
+`echo "texto adicionado" >> restricted.txt`
