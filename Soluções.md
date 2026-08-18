@@ -61,3 +61,7 @@
 
 ## p20-b
 `./hello_executable`
+
+## p21-b
+`chmod +x challenge_20`
+`./challenge_20`
