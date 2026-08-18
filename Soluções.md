@@ -81,3 +81,6 @@
 
 ## p26-b
 `nproc`
+
+## p27-b
+`uname -r`
