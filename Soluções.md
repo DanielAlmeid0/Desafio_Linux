@@ -36,3 +36,6 @@
 
 ## p12-i
 `cat /dev/null > empty.txt`
+
+## p13-b
+`cp hello.txt goodbye.txt`
