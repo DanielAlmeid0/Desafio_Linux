@@ -78,3 +78,6 @@
 
 ## p25-b
 `ps aux`
+
+## p26-b
+`nproc`
