@@ -69,3 +69,6 @@
 ## p22-b
 `gcc compile_me.c -o programa_compilado`
 `./programa_compilado`
+
+# p23-a
+`./redirect &> output.txt`
