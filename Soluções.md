@@ -105,3 +105,6 @@
 
 ## p34-i
 `dd if=/dev/urandom of=arquivo2mb.txt bs=1M count=2`
+
+## p35-i
+`wc -l README.txt`
