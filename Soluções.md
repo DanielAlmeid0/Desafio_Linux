@@ -108,3 +108,6 @@
 
 ## p35-i
 `wc -l README.txt`
+
+## p36-b
+`tac README.txt`
