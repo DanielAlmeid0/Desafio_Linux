@@ -131,3 +131,5 @@
 ## p42-a
 `grep -c "Josiah" people.csv`
 
+## p43-i
+`find . -maxdepth 1 -type f | wc -l`
