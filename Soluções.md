@@ -93,3 +93,6 @@
 
 ## p30-b
 `tail -n 25 people.csv`
+
+## p31-i
+`diff greeting1.txt greeting2.txt`
