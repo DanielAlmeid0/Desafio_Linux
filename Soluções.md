@@ -136,3 +136,6 @@
 
 ## p44-i
 `find . -mindepth 1 -maxdepth 1 -type d | wc -l`
+
+## p45-i
+`rm *deleteme*`
