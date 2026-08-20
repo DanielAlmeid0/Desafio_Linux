@@ -114,3 +114,6 @@
 
 ## p37-i
 `cut -d ',' -f 2 people.csv`
+
+## p38-a
+`cut -d ',' -f 2 people.csv`
