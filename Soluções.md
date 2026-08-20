@@ -152,3 +152,6 @@
 ## p49-a
 `Letra A: touch supercalifragilisticexpialidocious.txt`
 `Letra B: rm !$`
+
+## p50-a
+`touch {a..c}-{1..3}.txt`
