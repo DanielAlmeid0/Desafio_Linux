@@ -102,3 +102,6 @@
 
 ## p33-i
 `dd if=/dev/zero of=arquivo1mb.txt bs=1M count=1`
+
+## p34-i
+`dd if=/dev/urandom of=arquivo2mb.txt bs=1M count=2`
