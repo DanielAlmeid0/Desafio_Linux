@@ -96,3 +96,6 @@
 
 ## p31-i
 `diff greeting1.txt greeting2.txt`
+
+## p32-i
+`echo "Hello"; sleep 5; echo "world!"`
