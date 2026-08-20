@@ -148,3 +148,7 @@
 
 ## p48-a
 `find bunch_of_files/ -type f -exec cmp -s bunch_of_files/file001.rand {} \; -print`
+
+## p49-a
+`Letra A: touch supercalifragilisticexpialidocious.txt`
+`Letra B: rm !$`
