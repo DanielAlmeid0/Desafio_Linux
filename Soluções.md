@@ -99,3 +99,6 @@
 
 ## p32-i
 `echo "Hello"; sleep 5; echo "world!"`
+
+## p33-i
+`dd if=/dev/zero of=arquivo1mb.txt bs=1M count=1`
