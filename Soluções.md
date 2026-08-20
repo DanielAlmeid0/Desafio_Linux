@@ -142,3 +142,6 @@
 
 ## p46-i
 `sed -i 's/You found the needle in the haystack!/The needle has been removed./' agulha.txt`
+
+## p47-a
+`tr ',' '|' < people.csv > people_pipe.csv`
